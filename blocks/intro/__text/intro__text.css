@@ -1,0 +1,24 @@
+.intro__text {
+  margin: 40px 0 33px 148px;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+@media (max-width: 1279px) {
+  .intro__text {
+    margin: 40px 0 33px 48px;
+  }
+}
+
+@media (max-width: 1023px) {  
+  .intro__text {
+    margin: 40px 0 33px 24px;
+  }
+}
+
+@media (max-width: 525px) {  
+  .intro__text {
+    margin: 40px 16px 33px 16px;
+  }
+}

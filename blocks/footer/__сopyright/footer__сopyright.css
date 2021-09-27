@@ -1,0 +1,15 @@
+.footer__сopyright {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+}
+
+@media (max-width: 767px) {  
+  .footer__сopyright {
+    min-width: 186px;
+    font-size: 14px;
+    line-height: 14px;
+  }
+}

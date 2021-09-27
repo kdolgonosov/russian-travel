@@ -1,0 +1,13 @@
+.place__website {
+  grid-column: 2/3;
+  grid-row: 1/2;
+  align-self: end;
+}
+
+@media (max-width: 767px) {  
+  .place__website {
+    margin: 0 16px 0;
+    grid-column: 1/2;
+    grid-row: 2/3;
+  }
+}
