@@ -39,7 +39,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
-@import url(../blocks/footer/__сopyright/footer__сopyright.css);
+@import url(../blocks/footer/__author/footer__author.css);
 
 @font-face {
   font-family: 'Inter';
