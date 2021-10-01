@@ -1,4 +1,4 @@
-.footer__сopyright {
+.footer__author {
   margin: 0;
   padding: 0;
   font-size: 14px;
@@ -7,7 +7,7 @@
 }
 
 @media (max-width: 767px) {  
-  .footer__сopyright {
+  .footer__author {
     min-width: 186px;
     font-size: 14px;
     line-height: 14px;
