@@ -35,8 +35,6 @@
 @media (max-width: 618px) {
   .photo-grid {
     margin: 0 16px 64px;
-    grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
-    column-gap: 12px;
-    row-gap: 12px;
+    grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));    
   }
 }

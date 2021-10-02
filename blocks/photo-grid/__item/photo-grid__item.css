@@ -1,5 +1,6 @@
 .photo-grid__item {
   object-fit: cover;
+  /*object-position: left;*/
   max-width: 284px; 
 }
 

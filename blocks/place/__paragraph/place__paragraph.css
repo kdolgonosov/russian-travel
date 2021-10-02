@@ -11,16 +11,10 @@
 
 @media (max-width: 1023px) {
   .place__paragraph {
-    margin-bottom: 25px;
+    margin-bottom: 27px;
+    /*max-width: 352px;*/
+    text-align: left;
     font-size: 16px;
-    line-height: 26px;
-  }
-}
-
-@media (max-width: 767px) {  
-  .place__paragraph {
-    margin-bottom: 25px;
-    font-size: 16px;
-    line-height: 26px;
+    line-height: 26.08px;
   }
 }
